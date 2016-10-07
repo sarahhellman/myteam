@@ -1,0 +1,32 @@
+body {
+  font-family: 'arial narrow', arial, sans-serif;
+  font-weight: 300;
+}
+h1 {
+  color:red;
+}
+.navbar-default{
+  background-color:pink
+}
+#health{
+  color:green
+}
+#cheat{
+  color:orange
+}
+#junk{
+  color:red
+}
+.schedule{
+  color:blue;
+}
+.roster{
+  color:red
+}
+
+#paragraph{
+  font-family: 'Open Sans', sans-serif;
+  font-family: 'Roboto', sans-serif;
+  font-family: 'Cormorant Garamond', serif;
+  font-family: 'Indie Flower', cursive;
+}
